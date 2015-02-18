@@ -1,0 +1,61 @@
+
+Gather external references for later resolution
+Deleting existing packages from model
+Importing Model from XMI
+Root Package: Use Case Model
+Add Classifier Role: Actors
+Add Classifier Role: Primary Use Cases
+Append Package: Actors
+Add Classifier: staff
+Append Package: Primary Use Cases
+Add Classifier: List users
+Add Classifier: verify user is
+Add Classifier: Verify
+Add Classifier: Remove User From Delevery Queue
+Add Classifier: View Assistance Queue
+Add Classifier: Assign User To Group
+Add Classifier: select assignment to download
+Add Classifier: View Delevery Queue
+Add Classifier: Use Case2
+Add Classifier: Use Case4
+Add Classifier: Create Assistance Queue
+Add Classifier: Login
+Add Classifier: Create Queues
+Add Classifier: View Current Queue
+Add Classifier: View Uploaded Assignment
+Add Classifier: Pick user from Delevery Queue
+Add Classifier: List Users From Assistant Queue
+Add Classifier: Remove User From Assistance Queue
+Add Classifier: Download user Assignment
+Add Classifier: Use Case3
+Add Classifier: List Users From Delevery Queue
+Add Classifier: Select User to assign
+Add Classifier: List User From Assistance Queue
+Add Classifier: Note
+Add Classifier: Pick from Assistance Queue
+Add Classifier: Create Delevery Queue
+Add Classifier: Notify User you are out of the queue
+Add Classifier Role: Object1
+Add Classifier Role: System Boundary
+Resolving Classifiers
+Resolving Owners
+Resolve Package Links
+Add Extensions
+Add Diagrams
+Adding Diagram : Use Case Model
+Adding Diagram : Actors
+Adding Diagram : Primary Use Cases
+Adding Diagram : Use Case1
+Adding Elements to Diagram : Actors
+Adding Elements to Diagram : Primary Use Cases
+Adding Elements to Diagram : Use Case1
+Resolving DiagramIDs
+Adding Links to Diagram : Actors
+Adding Links to Diagram : Primary Use Cases
+Adding Links to Diagram : Use Case1
+Resolving Association Classes
+Resolving Parameter Types
+Resolving Attribute Types
+Resolving Note links
+Fixup external references
+Import Complete!

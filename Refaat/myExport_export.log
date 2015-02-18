@@ -1,0 +1,53 @@
+Exporting package to 'Y:\ITI\Java\Projects\Student-Assignment-Application\Refaat\myExport.xml'
+Retrieving data for export: diagram elements
+Retrieving data for export: links
+Retrieving data for export: constraints
+Retrieving data for export: attribute tagged values
+Retrieving data for export: operation tagged values
+Retrieving data for export: operation parameter tagged values
+Retrieving data for export: connector tagged values
+Completed data retrieval
+Pre-processing export tree...
+Completed pre-processing
+Processing package: Use Case Model
+Element:0: Actors
+Element:1: Primary Use Cases
+Diagram: Use Case Model
+Processing package: Actors
+Element:2: staff
+Diagram: Actors
+Processing package: Primary Use Cases
+Element:3: List users
+Element:4: verify user is
+Element:5: Object1
+Element:6: Verify
+Element:7: Remove User From Delevery Queue
+Element:8: View Assistance Queue
+Element:9: Assign User To Group
+Element:10: select assignment to download
+Element:11: View Delevery Queue
+Element:12: Use Case2
+Element:13: Use Case4
+Element:14: Create Assistance Queue
+Element:15: Login
+Element:16: Create Queues
+Element:17: View Current Queue
+Element:18: View Uploaded Assignment
+Element:19: Pick user from Delevery Queue
+Element:20: List Users From Assistant Queue
+Element:21: Remove User From Assistance Queue
+Element:22: Download user Assignment
+Element:23: Use Case3
+Element:24: List Users From Delevery Queue
+Element:25: Select User to assign
+Element:26: List User From Assistance Queue
+Element:27: Note
+Element:28: System Boundary
+Element:29: Pick from Assistance Queue
+Element:30: Create Delevery Queue
+Element:31: Notify User you are out of the queue
+Diagram: Primary Use Cases
+Diagram: Use Case1
+Adding State-Tables
+Formatting output XML...please wait
+XMI Document Export Complete!
